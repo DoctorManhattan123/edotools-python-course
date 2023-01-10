@@ -10,6 +10,7 @@ They're called violets.
 """
 
 filename = "example.txt"
+output = "output.txt"
 
 class TestCase(unittest.TestCase):
     def setUp(self) -> None:
@@ -17,7 +18,7 @@ class TestCase(unittest.TestCase):
             f.write(expected_content)
 
     def test_fix_encoding(self):
-        fix_encoding(filename)
+        fix_encoding(filename, output)
         with open(filename, "r", encoding="utf-8") as file:
             actual_content = file.read()
 

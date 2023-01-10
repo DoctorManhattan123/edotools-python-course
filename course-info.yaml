@@ -11,3 +11,4 @@ programming_language: Python
 environment: unittest
 content:
 - "Strings, inputs and files"
+- Modules and packages
