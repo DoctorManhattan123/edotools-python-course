@@ -1,4 +1,5 @@
 content:
 - strings
 - user input
-- file input 1
+- file input
+- file encoding
