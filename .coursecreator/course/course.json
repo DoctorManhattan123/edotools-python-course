@@ -1,0 +1,136 @@
+{
+  "course_version" : 1,
+  "environment" : "unittest",
+  "summary" : "This is an introductory Python course.\n- The course will be most beneficial for beginner-level Python learners.\n- The course covers core Python features.\n- It contains hands-on examples of Python code implementation and exercises to practice new skills.\n- The course is based on the author's personal experience in Python development.",
+  "title" : "Python Course",
+  "programming_language" : "Python",
+  "language" : "en",
+  "course_type" : "Marketplace",
+  "items" : [
+    {
+      "id" : 511146062,
+      "title" : "Variables and data types",
+      "task_list" : [
+        {
+          "id" : 1405680317,
+          "name" : "task1",
+          "files" : {
+            "task.py" : {
+              "name" : "task.py",
+              "placeholders" : [
+                {
+                  "offset" : 72,
+                  "length" : 6,
+                  "possible_answer" : "Cmfr4B11IuF0HkdVAs3Zh4xwRR/z46IW743P/6192/z8Pt8VaQAqKDALISdb3Fz7eQgh/Y0qMUhCG9KA7S3Opq3I4tBZW3AK90vKBLltEw0=",
+                  "placeholder_text" : "# TODO"
+                }
+              ],
+              "is_visible" : true,
+              "text" : "3kQDIBCKH3+ehMbNT+jMe+7Nmb250BHm2+6Ly9mV1rLhRnuD63CRp/CXjjIZBX963aoQjj/2N3rWhk3VMHftpiXC9F57c05rY7XKYoxeac1zOXNvDtD4/PLZ4ZxElwS9mrKjSiHwoRCU9vPnAK3PK0rVa1ZTkB8T55dBLOFvZYJCELAIdWEgWWfWrSynq4VE"
+            },
+            "tests/test_task.py" : {
+              "name" : "tests/test_task.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4fnUTxo876/92OqjFXp174io4ZQaVk8sj/Q8A+iHgib1Dz0EjvJiFKtG8hp/LjeP6KMm/nfaGbLPAZVEfmstIyuLQ4xVXiSyWRe3RsucHKeK5JIGaL28k/QgDmxsCSaOYVFTWjMXX7Kvfb8kkWO7ZeFSRPQWEZ62qUMKAnRd8OXm/+LHd7q4AELThuMXKuGc3U4IYhsiCJZ3iID71VhaO0Y/vnXR1sZY/dekk5FxDHFAwE4qTzSsuMeWC9xIk1cIbrokkToc9T66RcBQ01E6udekFqSt0GkB7o4xk6wiBtBtD292/m149LNFig54DOEaqmxQDxizyUleQXnmWOsNl7CGhZCDZcP0Z86Ov6BawQJOg=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            },
+            "tests/__init__.py" : {
+              "name" : "tests/__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the EduTools plugin:\n\n- Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.",
+          "description_format" : "MD",
+          "task_type" : "edu"
+        },
+        {
+          "id" : 130960631,
+          "name" : "task2",
+          "files" : {
+            "tests/output.txt" : {
+              "name" : "tests/output.txt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "hwwGq4Lh0A+TcjgkNaSGiA=="
+            },
+            "main.py" : {
+              "name" : "main.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "eferBCJRUpIZ4ayufvWxuSzxvyxK+MoYXDHuKgRndPzUwxWnxuLRQCFsOg4NqSu1t+GzshD5kJfjqSSk7YsRUg=="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "\nThis is a task description file.\nIts content will be displayed to a learner\nin the **Task Description** window.\n\nIt supports both Markdown and HTML.\nTo toggle the format, you can rename **task.md**\nto **task.html**, or vice versa.\nThe default task description format can be changed\nin **Preferences | Tools | Education**,\nbut this will not affect any existing task description files.\n\nThe following features are available in\n**task.md/task.html** which are specific to the EduTools plugin:\n\n- Hints can be added anywhere in the task text.\nType \"hint\" and press Tab.\nHints should be added to an empty line in the task text.\nIn hints you can use both HTML and Markdown.\n<div class=\"hint\">\n\nText of your hint\n\n</div>\n\n- You may need to refer your learners to a particular lesson,\ntask, or file. To achieve this, you can use the in-course links.\nSpecify the path using the `[link_text](course://lesson1/task1/file1)` format.\n\n- You can insert shortcuts in the task description.\nWhile **task.html/task.md** is open, right-click anywhere\non the **Editor** tab and choose the **Insert shortcut** option\nfrom the context menu.\nFor example: &shortcut:FileStructurePopup;.\n\n- Insert the &percnt;`IDE_NAME`&percnt; macro,\nwhich will be replaced by the actual IDE name.\nFor example, **%IDE_NAME%**.\n\n- Insert PSI elements, by using links like\n`[element_description](psi_element://link.to.element)`.\nTo get such a link, right-click the class or method\nand select **Copy Reference**.\nThen press &shortcut:EditorPaste; to insert the link where appropriate.\nFor example, a [link to the \"contains\" method](psi_element://java.lang.String#contains).\n\n- You can add link to file using **full path** like this:\n  `[file_link](file://lesson1/task1/file.txt)`.",
+          "description_format" : "MD",
+          "task_type" : "output"
+        },
+        {
+          "choiceOptions" : [
+            {
+              "text" : "int",
+              "status" : "CORRECT"
+            },
+            {
+              "text" : "float",
+              "status" : "CORRECT"
+            },
+            {
+              "text" : "boat",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "string",
+              "status" : "CORRECT"
+            },
+            {
+              "text" : "web",
+              "status" : "INCORRECT"
+            },
+            {
+              "text" : "boolean",
+              "status" : "CORRECT"
+            }
+          ],
+          "isMultipleChoice" : true,
+          "quizHeader" : "Tick all valid types",
+          "name" : "task3",
+          "files" : {
+            "main.py" : {
+              "name" : "main.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "QXAm7jsXIBIkjVMyQCAh3qe1unFufiCFbuzRbSQ90flMQjxRypoqz2I1Ke6qlMlUzXz3tsBYb4rQ9vW2LMt5B4vDNbhUe/dg9X71tX3X9eo7cIqL3rYnpft1lsky+hvlA6Au+ax90YjLH1CLOEal0YLqv/FJFoSMU0viRLju8vBox1LgKQEpPMi+l5AVpkAGeeqhcrTRsBSBnY3T3FGz2gMYB0zhaVMTSmCw+NvIpI4="
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "Solve the multiple choice question below.",
+          "description_format" : "MD",
+          "task_type" : "choice",
+          "id" : 337458084
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "version" : 14,
+  "edu_plugin_version" : "2022.12-2022.1-1130"
+}

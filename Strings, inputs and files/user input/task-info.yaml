@@ -1,0 +1,14 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 53
+    length: 46
+    placeholder_text: '# TODO'
+- name: __init__.py
+  visible: false
+- name: tests/input.txt
+  visible: false
